@@ -1,0 +1,18 @@
+/library-project  
+│  
+├── /book  
+│   ├── index.php      (List of all books)  
+│   ├── detail.php     (Show details of a specific book)  
+│   ├── create.php     (Form to create a new book)  
+│   ├── edit.php       (Form to edit a book)  
+│   ├── delete.php     (Delete a book)  
+│  
+├── /auth  
+│   ├── signup.php     (User registration)  
+│   ├── login.php      (User login)  
+│   ├── logout.php     (User logout)  
+│  
+├── index.php          (Welcome page or redirect to /book/index.php)  
+├── books.json         (Store book data)  
+├── users.json         (Store user credentials)  
+├── README.md          (Project description)  
